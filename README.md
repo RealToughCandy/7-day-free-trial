@@ -35,7 +35,7 @@ Codecademy has two tiers: Codecademy and Codecademy Pro. This link is for Codeca
 # Tech Freelancing / Biz Tools
 
 ## [Invoice Ninja (Ninja Pro Plan)](https://app.invoiceninja.com/invoice_now?rc=5lfghibqvs1tddqgy2ydukicofxwij7j)
-Open-source online invoicing app for freelancers & businesses. Invoice, accept payments, track expenses, create proposals, & time-tasks. Free trial is for 14 days. **No financial info required**
+Open-source online invoicing app for freelancers & businesses. Invoice, accept payments, track expenses, create proposals and more. Free trial is for 14 days. **No financial info required**
 
 # UX/UI
 
