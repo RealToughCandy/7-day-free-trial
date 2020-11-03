@@ -21,10 +21,10 @@ _Some of the links here are affiliates. That means if you end up going past the 
 # Education (web dev, game dev, data science)
 
 ## [TreeHouse](https://bit.ly/3ekKpH6)
-Video-based platform with a web development focus. Offers courses on frontend development, Python, UX/UI and more. **Credit card or Paypal required for free trial**
+Video-based platform with a web development focus. Offers courses on frontend development, Python, UX/UI and more. **Credit card or Paypal required for free trial.**
 
 ## [Codecademy Pro](https://bit.ly/2TQ38ky)
-Codecademy has two tiers: Codecademy and Codecademy Pro. This link is for Codecademy Pro which offers signifacantly more features and benefits. Interactive code-editor based with links to supporting videos. Numerous areas of study including web development, machine learning, game development, UX/UI and more. Language options include JavaScript, Java, Ruby, Go, PHP and more.  **Credit card or Paypal required for free trialr**
+Codecademy has two tiers: Codecademy and Codecademy Pro. This link is for Codecademy Pro which offers signifacantly more features and benefits. Interactive code-editor based with links to supporting videos. Numerous areas of study including web development, machine learning, game development, UX/UI and more. Language options include JavaScript, Java, Ruby, Go, PHP and more.  **Credit card or Paypal required for free trial.**
 
 # IT
 
@@ -35,7 +35,7 @@ Codecademy has two tiers: Codecademy and Codecademy Pro. This link is for Codeca
 # Tech Freelancing / Biz Tools
 
 ## [Invoice Ninja (Ninja Pro Plan)](https://app.invoiceninja.com/invoice_now?rc=5lfghibqvs1tddqgy2ydukicofxwij7j)
-Open-source online invoicing app for freelancers & businesses. Invoice, accept payments, track expenses, create proposals and more. Free trial is for 14 days. **No financial info required**
+Open-source online invoicing app for freelancers & businesses. Invoice, accept payments, track expenses, create proposals and more. Free trial is for 14 days. **No financial info required.**
 
 # UX/UI
 
