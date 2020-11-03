@@ -1,6 +1,6 @@
 
 
-# This list contains a collection of coding platforms that offer free 7-day trials.
+# A collection of coding platforms that offer free 7-day trials.
 
 These platforms can be pricey. Try before you buy!
 
