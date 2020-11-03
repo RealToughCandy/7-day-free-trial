@@ -4,7 +4,7 @@
 
 Learn-to-code platforms can be pricey. Try before you buy! 
 
-I've also indicated where a credit card (CC) is required to register. 
+I've also indicated where a credit card is required to register. 
 
 
 _Some of the links here are affiliates. That means if you end up going past the free trial & buying soemething, I may earn a few bucks. It's a free way to support repos like these, so thank you for your support!_ 
@@ -12,7 +12,7 @@ _Some of the links here are affiliates. That means if you end up going past the 
 # Web Development
 
 ## [TreeHouse](https://bit.ly/3ekKpH6)
-Video-based platform with a web development focus. Offers courses on frontend development, Python, UX/UI and more. **Credit Card required**
+Video-based platform with a web development focus. Offers courses on frontend development, Python, UX/UI and more. **Credit card or Paypal required**
 
 
 # Data Science
