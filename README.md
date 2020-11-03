@@ -4,7 +4,7 @@
 
 ![code editor with text on front that says 7 say free trial the ultimate list for programmers](https://realtoughcandy.com/wp-content/uploads/2020/11/7-day-free-trial-realtoughcandy-1.jpg)
 
-Learn-to-code platforms can be pricey. Try before you buy! 
+Tech education platforms can be pricey. Try before you buy! 
 
 Most free trials are valid for new accounts only. In other words, if you've signed up for a free trial on one of these platforms in the past, your account probably isn't eligible for another one. 
 
