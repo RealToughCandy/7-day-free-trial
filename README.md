@@ -4,7 +4,7 @@
 
 ![code editor with text on front that says 7 say free trial the ultimate list of tech products, services and education](https://realtoughcandy.com/wp-content/uploads/2020/11/tech-products-7-day-free-trial-github.jpg)
 
-Tech stuff is be pricey. Try before you buy! 
+## Tech stuff is pricey. Try before you buy! 
 
 Most free trials are valid for new accounts only. In other words, if you've signed up for a free trial on one of these platforms in the past, your account probably isn't eligible for another one. 
 
