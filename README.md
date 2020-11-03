@@ -6,6 +6,8 @@
 
 ## Tech stuff is pricey. Try before you buy! 
 
+# Nov 3 update: This is a huge Work In Progress and I will be adding a heaving helping of freebies in the next couple weeks. I'll be sharing this repo [on a livestream](https://www.youtube.com/realtoughcandy) next month! 
+
 Most free trials are valid for new accounts only. In other words, if you've signed up for a free trial on one of these platforms in the past, your account probably isn't eligible for another one. 
 
 **Students: Get a royal boatload of free stuff through the [GitHub Student Developer Pack](https://education.github.com/pack).** (I won't be listing GitHub Studend Pack benefits in this list)
