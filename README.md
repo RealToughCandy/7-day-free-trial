@@ -8,7 +8,7 @@
 
 Most free trials are valid for new accounts only. In other words, if you've signed up for a free trial on one of these platforms in the past, your account probably isn't eligible for another one. 
 
-_Some of the links here are affiliates. That means if you end up going past the free trial & buying soemething, I may earn a few bucks. It's a free way to support repos like these, so thank you for your support!_ 
+_Some of the links here are affiliates. That means if you end up going past the free trial & buying soemething, I may earn a few bucks. It's a free way of supporting repos like these, so thank you for your support!_ 
 
 # Software/Web Development Education
 
