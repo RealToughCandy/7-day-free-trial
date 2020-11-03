@@ -22,7 +22,7 @@ _Some of the links here are affiliates. That means if you end up going past the 
 Video-based platform with a web development focus. Offers courses on frontend development, Python, UX/UI and more. **Credit card or Paypal required to register**
 
 ## [Codecademy Pro](https://bit.ly/2TQ38ky)
-Codecademy has two tiers: Codecademy and Codecademy Pro. This link is for Codecademy Pro which offers signifacantly more features and benefits. Interactive code-editor based with links to supporting videos. Numerous areas of study including web development, machine learning, game development, UX/UI and more. Language options include JavaScript, Java, Ruby, Go, PHP and more.  **Credit card or Paypal required register**
+Codecademy has two tiers: Codecademy and Codecademy Pro. This link is for Codecademy Pro which offers signifacantly more features and benefits. Interactive code-editor based with links to supporting videos. Numerous areas of study including web development, machine learning, game development, UX/UI and more. Language options include JavaScript, Java, Ruby, Go, PHP and more.  **Credit card or Paypal required to register**
 
 # IT
 
