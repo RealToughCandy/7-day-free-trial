@@ -6,7 +6,7 @@
 
 ## Tech stuff is pricey. Try before you buy! 
 
-# Nov 3 update: This is a huge Work In Progress and I will be adding a heaving helping of freebies in the next couple weeks. I'll be sharing this repo [on a livestream](https://www.youtube.com/realtoughcandy) next month! 
+# Nov 3 update: This is a huge Work In Progress and I will be adding a heaving helping of freebies in the next couple weeks. I'll also be sharing this repo [on a livestream](https://www.youtube.com/realtoughcandy) next month with all the updates. 
 
 Most free trials are valid for new accounts only. In other words, if you've signed up for a free trial on one of these platforms in the past, your account probably isn't eligible for another one. 
 
