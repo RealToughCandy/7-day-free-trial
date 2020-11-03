@@ -16,6 +16,8 @@ _Some of the links here are affiliates. That means if you end up going past the 
 
 # Data Science
 
+# Tech Freelancing / Biz Tools
+
 # Dev Tools
 
 # Education (web dev, game dev, data science)
