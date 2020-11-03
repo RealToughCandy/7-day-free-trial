@@ -8,6 +8,8 @@
 
 Most free trials are valid for new accounts only. In other words, if you've signed up for a free trial on one of these platforms in the past, your account probably isn't eligible for another one. 
 
+**Students: Get a royal boatload of free stuff through the [GitHub Student Developer Pack](https://education.github.com/pack).** (I won't be listing GitHub Studend Pack benefits in this list)
+
 _Some of the links here are affiliates. That means if you end up going past the free trial & buying soemething, I may earn a few bucks. It's a free way of supporting repos like these, so thank you for your support!_ 
 
 # Data Science
