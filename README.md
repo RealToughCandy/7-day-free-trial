@@ -10,7 +10,9 @@ Most free trials are valid for new accounts only. In other words, if you've sign
 
 _Some of the links here are affiliates. That means if you end up going past the free trial & buying soemething, I may earn a few bucks. It's a free way of supporting repos like these, so thank you for your support!_ 
 
-# Programming Education (web dev, game dev, data science)
+# Data Science
+
+# Education (web dev, game dev, data science)
 
 ## [TreeHouse](https://bit.ly/3ekKpH6)
 Video-based platform with a web development focus. Offers courses on frontend development, Python, UX/UI and more. **Credit card or Paypal required to register**
@@ -18,11 +20,12 @@ Video-based platform with a web development focus. Offers courses on frontend de
 ## [Codecademy Pro](https://bit.ly/2TQ38ky)
 Codecademy has two tiers: Codecademy and Codecademy Pro. This link is for Codecademy Pro which offers signifacantly more features and benefits. Interactive code-editor based with links to supporting videos. Numerous areas of study including web development, machine learning, game development, UX/UI and more. Language options include JavaScript, Java, Ruby, Go, PHP and more.  **Credit card or Paypal required register**
 
-# Data Science
+# IT
 
+# SEO
 
 # Security
 
-# IT
+# WordPress
 
 # Youth / YA
