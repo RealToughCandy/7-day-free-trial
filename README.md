@@ -10,7 +10,7 @@ Most free trials are valid for new accounts only. In other words, if you've sign
 
 _Some of the links here are affiliates. That means if you end up going past the free trial & buying soemething, I may earn a few bucks. It's a free way of supporting repos like these, so thank you for your support!_ 
 
-# Software/Web Development Education
+# Programming Education (web dev, game dev, data science)
 
 ## [TreeHouse](https://bit.ly/3ekKpH6)
 Video-based platform with a web development focus. Offers courses on frontend development, Python, UX/UI and more. **Credit card or Paypal required to register**
