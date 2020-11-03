@@ -16,8 +16,6 @@ _Some of the links here are affiliates. That means if you end up going past the 
 
 # Data Science
 
-# Tech Freelancing / Biz Tools
-
 # Dev Tools
 
 # Education (web dev, game dev, data science)
@@ -33,6 +31,11 @@ Codecademy has two tiers: Codecademy and Codecademy Pro. This link is for Codeca
 # SEO
 
 # Security
+
+# Tech Freelancing / Biz Tools
+
+## [Invoice Ninja (Ninja Pro Plan)](https://app.invoiceninja.com/invoice_now?rc=5lfghibqvs1tddqgy2ydukicofxwij7j)
+Open-source online invoicing app for freelancers & businesses. Invoice, accept payments, track expenses, create proposals, & time-tasks. Free trial is for 14 days. **No financial info required**
 
 # UX/UI
 
