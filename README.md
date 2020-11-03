@@ -1,6 +1,6 @@
 
 
-# A collection of coding platforms that offer free 7-day trials.
+# A collection of coding / IT platforms that offer free 7-day trials.
 
 Learn-to-code platforms can be pricey. Try before you buy! 
 
