@@ -2,7 +2,7 @@
 
 # A collection of paid tech products, services and education platforms that offer free 7-day (or more!) trials.
 
-![code editor with text on front that says 7 say free trial the ultimate list for programmers](https://realtoughcandy.com/wp-content/uploads/2020/11/7-day-free-trial-tech-education-1.jpg)
+![code editor with text on front that says 7 say free trial the ultimate list of tech products, services and education](https://realtoughcandy.com/wp-content/uploads/2020/11/tech-products-7-day-free-trial-github.jpg)
 
 Tech stuff is be pricey. Try before you buy! 
 
