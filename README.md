@@ -2,7 +2,7 @@
 
 # A collection of tech education platforms that offer free 7-day trials.
 
-![code editor with text on front that says 7 say free trial the ultimate list for programmers](https://realtoughcandy.com/wp-content/uploads/2020/11/7-day-free-trial-realtoughcandy-1.jpg)
+![code editor with text on front that says 7 say free trial the ultimate list for programmers](code editor with text on front that says 7 say free trial the ultimate list for tech education)
 
 Tech education platforms can be pricey. Try before you buy! 
 
